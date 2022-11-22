@@ -1,0 +1,95 @@
+list1=[]
+# for i in range (0,4):
+#     a=input()
+#     list1.append(a)
+# list1.sort()
+# print(list1)
+# list1.sort(reverse=True)
+# print(list1)
+
+
+#  program 2   
+
+# for i in range (0,4):
+#     a=int(input())
+#     list1.append(a)
+# b=int(input("enter which occurenses u need to delete"))
+
+# # for elem in list(list1):
+# #     if elem == b :
+# #         list1.remove(elem)
+        
+    
+# for i in range (0,3):
+#     if b == list1[i]:
+#         list1.remove(b)
+        
+        
+
+# print(list1)
+
+
+
+
+
+
+# program 3
+# list2=[]
+
+# for i in range(0,4):
+#     a=int(input())
+#     list2.append(a)
+# maxi=list2[0]    
+    
+# for i in range(0,4):
+#     if list2[i]>maxi:
+#         maxi=list2[i]
+# print(list2.count(maxi))        
+        
+# program 3
+# R= int(input("Enter the number of rows:"))
+# C = int(input("Enter the number of columns:"))
+  
+
+# matrix = []
+# print("Enter the entries rowwise:")
+  
+
+# for i in range(R):
+#     a =[]
+#     for j in range(C):
+#         a.append(int(input()))
+#     matrix.append(a)
+    
+# program 4  
+
+        
+program 5
+
+
+
+
+        
+        
+        
+        
+    
+
+    
+    
+ 
+        
+    
+     
+      
+   
+
+    
+ 
+       
+        
+        
+        
+        
+        
+        
